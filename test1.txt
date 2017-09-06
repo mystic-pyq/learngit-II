@@ -1,3 +1,7 @@
 DO A TEST
 git is a free software.
-i am kobe
+<<<<<<< HEAD
+i am learning git.
+=======
+i am learning git.
+>>>>>>> feature
